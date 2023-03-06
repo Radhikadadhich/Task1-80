@@ -1,0 +1,370 @@
+.container ul li
+{
+    position: relative;
+    display:inline-block;
+    position: relative;
+    left: 500px;
+    letter-spacing: 3px;
+    font-size: x-large;
+
+}
+.container ul li a:hover
+{
+    background-color: #0ac882;
+    border: 2px rgb(201, 15, 176);
+    border-radius: 20px;
+}
+.E p
+{
+    font-size:30px;
+    text-align: center;
+    background-color:rgb(112, 82, 6);
+    position: relative;
+    transition: .1s;
+}
+.E p:hover
+{
+    transform:scale(2);
+}
+/* Task 4 */
+table{
+
+    border-collapse: collapse;
+    }
+    table tr td{
+
+    border: 1px solid #3f7646;
+    }
+    table tr th{
+    border: 1px solid rgb(86, 3, 3);
+
+    }
+    .zebra{
+    background-color:rgb(5, 124, 148);
+    }
+    /* Task 8 */
+    #nonSelected{
+        position:relative;
+        left: 10px;
+        width: 180px;
+        height: 180px;
+        background-color: #d3d3d3;
+        border-width: 1px;
+        border-style: dotted;
+        border-color: black;
+        padding: 10px;
+    }
+
+    #selected{
+        position:relative;
+        left: 250px;
+        width: 180px;
+        height: 180px;
+        background-color: #24212f;
+        border-width: 1px;
+        border-style: dotted;
+        border-color: black;
+        padding: 10px;
+    }
+    /* Task 11 */
+    p span{
+        text-decoration: underline;
+      }
+      /* Task 12 */
+
+p.center {
+    text-align: center;
+    color: blue;
+}
+
+p.large {
+    font-size: 200%;
+}
+/* Task 13 */
+h4
+{
+    margin: 10px 0;
+    padding: 0 5px;
+    font-size: 2em;
+    border: 2px double 
+green;
+}
+/* Task 30 */
+p.center {
+    text-align: center;
+    color: 
+rgb(160, 13, 82);
+}
+
+p.large {
+    font-size: 200%;
+}
+/* Task 31 */
+p.center {
+    text-align: center;
+    color: 
+rgb(211, 27, 27);
+}
+
+p.large {
+    font-size: 200%;
+    color: 
+rgb(24, 132, 65);
+}
+.container ul li
+{
+    position: relative;
+    display:inline-block;
+    position: relative;
+    left: 500px;
+    letter-spacing: 3px;
+    font-size: x-large;
+    
+}
+.container ul li a:hover
+{
+    background-color: #ff751a;
+    border: 2px salmon;
+    border-radius: 20px;
+}
+.E p
+{
+    font-size:30px;
+    text-align: center;
+    background-color:goldenrod;
+    position: relative;
+    transition: .1s;
+}
+.E p:hover
+{
+    transform:scale(2);
+}
+/* Task 34 */
+p{
+    font-size: x-large; 
+    background:seagreen;
+}
+/* Task 35 */
+p1{
+    font-size: x-large;
+    background: khaki;
+    display:list-item;
+}
+/* TAsk 36 */
+p2{
+    padding: 20px;
+    font: 20px sans-serif;
+    background: #f2f2f2;
+}
+p2.highlight{
+    background: yellow;
+}
+/* TAsk 39 */
+p3{
+    padding: 10px;
+    background: lightgreen;
+    display: none;
+}
+div{
+    margin: 20px 0;
+}
+/* Task 40  */
+p4{
+    padding: 10px;
+    background: lightgreen;
+    display: none;
+}
+div{
+    margin: 20px 0;
+}
+/* TAsk 41 */
+p5{
+    padding: 10px;
+    background: lightgreen;
+    display: none;
+}
+div{
+    margin: 20px 0;
+}
+/* Task 42 */
+label{
+    display: block;
+    margin: 5px 0;
+}
+label span{
+    display: none;
+}
+/* Task 43 */
+label{
+    display: block;
+    margin: 5px 0;
+}
+label span{
+    display: none;
+}
+/* Task 45 */
+.error{
+    color: red;
+}
+/* Task 46 */
+p8{
+    padding: 20px;
+    font: 20px sans-serif;
+    background: #f0e68c;
+}
+/* Task 47 */
+p9{
+    
+    text-align: center;
+    font: bold 34px sans-serif;
+    background: #f0e68c;
+    position: fixed;
+    top: 50px;
+    display: none;
+}
+.dummy-content{
+    height: 100px;
+    font: 34px sans-serif;
+    text-align: center;
+}
+/* Task 49 */
+p10{
+    background: #F0E68C;
+}
+/* Task 50 */
+p11{
+
+    background: #F0E68C;
+}
+/* TAsk 51 */
+p12{
+    background: #F0E68C;
+}
+/* TAsk 52 */
+p13{
+
+    background: #DDA0DD;
+}
+/* TAsk 53 */
+p14{
+    padding: 15px;
+    background: #DDA0DD;
+}
+/* Task 54 */
+p15{
+
+    background: #DDA0DD;
+}
+/* Task 55 */
+p16{
+    
+    background: #DDA0DD;
+}
+/* Task 56 */
+p17{
+    display: none;
+    background: #DDA0DD;
+}
+/* TAsk 57 */
+p18{
+    padding: 15px;
+    background: #B0C4DE;
+}
+/* Task 58 */
+p19{
+
+    background: #B0C4DE;
+}
+/* Task 60 */
+p20{
+    /* padding: 15px; */
+    background: #B0C4DE;
+}
+/* Task 61  */
+img{
+    position: relative; /* Required to move element */
+}
+/* Task 62 */
+.box{
+    width: 100px;
+    height: 100px;
+    background: #9d7ede;
+    margin-top: 30px;
+    border-style: solid; /* Required to animate border width */
+    border-color: #6f40ce;
+}
+/* TAsk 63 */
+.box1{
+    width: 100px;
+    height: 100px;
+    background: #9d7ede;
+    margin-top: 30px;
+    border-style: solid; /* Required to animate border width */
+    border-color: #6f40ce;
+}
+/* Task 64 */
+.box2{
+    width: 50px;
+    height: 50px;
+    background: #9d7ede;
+    margin-top: 30px;
+    position: relative; /* Required to move element */
+}
+/* Task 65 */
+.box3{
+    width: 80%;
+    height: 200px;
+    background: #9d7ede;
+    margin-top: 30px;
+}
+/* Task 66 */
+p21 {
+
+	font: bold 24px sans-serif;
+	text-align: center;
+    background: #aaccaa;
+    border: 1px solid #63a063;
+    box-sizing: border-box;
+}
+/* Task 67 */
+p23 {
+    width: 200px;
+
+	font: bold 24px sans-serif;
+	text-align: center;
+    background: #aaccaa;
+    border: 1px solid #63a063;
+    box-sizing: border-box;
+}
+/* Task 68 */
+.test{
+     background: yellow;
+}
+/* TAsk 69 */
+p25{
+    background:yellow;
+    font-size: 24px;
+    padding:20px;
+}
+/* TAsk 70 */
+p26
+{
+    background:yellow;
+    font-size: 24px;
+    padding:20px;
+}
+/* TAsk 71 */
+h11{
+    display:none;
+    background:red;
+    padding:20px;
+}
+p27{
+    background:yellow;
+    font-size: 24px;
+    padding:20px;
+}
+/* Task 78 */
+.frame{
+    border: 6px solid #000;
+}
